@@ -11,4 +11,4 @@ Line Chart: Visualize the sales trends of four distinct coffee brands over time,
 Country-Wise Sales: Gain a geographical perspective with a bar chart showcasing coffee sales across different countries.
 Top 5 Customers: Identify and celebrate the top 5 customers contributing significantly to overall sales.
 
-<img height="500" width="600" src="https://github.com/AbhishekRajendran/Coffee_Sales_Excel_Dashboard/blob/DataAnalysis/Coffee_Sales_Dashboard.jpg" />
+<img height="500" width="600" src="https://github.com/AbhishekRajendran/Coffee_Sales_Excel_Dashboard/blob/DataAnalysis/Coffee%20Sales%20Dashboard.jpg" />
